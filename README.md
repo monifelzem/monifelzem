@@ -7,7 +7,6 @@
 
 ## ℹ️ About me
 
-- 🌱 I’m currently student Java at project Capgemini Start.
 - 🇧🇷 Born in Salvador-BA.
 - 🎓 Bachelor's degree in Administration and MBA in Finance, Auditing and Controlling.
 - 📫 You can reach here [Linkedin](https://www.linkedin.com/in/monise-felzemburgh/).
